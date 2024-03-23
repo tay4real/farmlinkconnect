@@ -16,11 +16,9 @@ const Header = () => {
         
       </div>
       <div className="w3-col l4 m6">
-        <img src={image} className="w3-image w3-right w3-hide-small" width="335" height="471" alt='sample images' />
+        <img src={image} className="w3-image w3-right w3-hide-small"  alt='sample images' />
         <div className="w3-center w3-hide-large w3-hide-medium">
-          <button className="w3-button w3-block w3-padding-large" onclick="document.getElementById('download').style.display='block'">
-            <i className="fa fa-download"></i> Download Application
-          </button>
+         
           
         </div>
       </div>
