@@ -1,6 +1,6 @@
 # FarmLink Connect
 
-![Logo](./assets/logo_white_bg.png)
+![Logo](./src/assets/logo_white_bg.png)
 
 FarmLink Connect is an innovative digital solution designed to revolutionize the way merchants, farmers, and investors interact and collaborate within the agricultural ecosystem. 
 
