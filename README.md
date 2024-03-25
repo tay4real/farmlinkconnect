@@ -2,7 +2,7 @@
 
 ![Logo](./src/assets/logo_white_bg.png)
 
-<h3><a href="https://farmlinkconnect.netlify.app">Demo Link</a></h3>
+<h3><a href="https://farmlinkconnect.netlify.app" target="_blank">Demo Link</a></h3>
 
 FarmLink Connect is an innovative digital solution designed to revolutionize the way merchants, farmers, and investors interact and collaborate within the agricultural ecosystem. 
 
